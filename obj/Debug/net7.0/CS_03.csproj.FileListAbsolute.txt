@@ -1,0 +1,14 @@
+D:\Learn_C#_KHTN\CS_03\bin\Debug\net7.0\CS_03.exe
+D:\Learn_C#_KHTN\CS_03\bin\Debug\net7.0\CS_03.deps.json
+D:\Learn_C#_KHTN\CS_03\bin\Debug\net7.0\CS_03.runtimeconfig.json
+D:\Learn_C#_KHTN\CS_03\bin\Debug\net7.0\CS_03.dll
+D:\Learn_C#_KHTN\CS_03\bin\Debug\net7.0\CS_03.pdb
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.AssemblyInfoInputs.cache
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.AssemblyInfo.cs
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.csproj.CoreCompileInputs.cache
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.dll
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\refint\CS_03.dll
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.pdb
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\CS_03.genruntimeconfig.cache
+D:\Learn_C#_KHTN\CS_03\obj\Debug\net7.0\ref\CS_03.dll
